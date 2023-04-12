@@ -1,6 +1,11 @@
 import functions
 import PySimpleGUI as sg
 import time
+import os
+
+if not os.path.exists("data.txt"):
+    with open("data.txt", "w"):
+        pass
 
 sg.theme("DarkPurple4")
 
@@ -67,4 +72,3 @@ while True:
         case sg.WIN_CLOSED:
             break
 
-window.close()
