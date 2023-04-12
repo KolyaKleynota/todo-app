@@ -1,2 +1,2 @@
-one edittwo
-three
+laba 1.1cc
+laba 2.1
