@@ -1,2 +1,2 @@
-laba 1.1cc
-laba 2.1
+laba 2.1gff
+laba 2.1gff
